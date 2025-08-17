@@ -36,7 +36,7 @@
 
 - 📧 [obamelam@gmail.com](mailto:obamelam@gmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/obamela-moganedi)  
-- 💻 [Portfolio] (https://www.obamela03.pythonanywhere.com)
+- 💻 [Portfolio] https://obamela03.pythonanywhere.com/
 
 ---
 
