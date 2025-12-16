@@ -13,7 +13,7 @@
 - 💻 Software Developer | 📊 Data Analyst | 🧠ML Algorithms
 - 🧠 Passionate about learning, building, and solving real-world problems  
 - 🌍 Based in South Africa  
-- 🌱 Currently exploring Machine Learning, Web Development, and Clean Code principles
+- 🌱 Currently exploring Machine Learning, Web Development, Data Analytics, and Clean Code principles
 
 ---
 
